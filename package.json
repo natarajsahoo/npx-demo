@@ -5,9 +5,9 @@
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
-    "nataraj-npx-demo": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "bin": "npm start",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/natarajsahoo/npx-demo.git"
