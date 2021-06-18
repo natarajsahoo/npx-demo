@@ -1,6 +1,6 @@
 {
   "name": "nataraj-npx-demo",
-  "version": "1.0.12",
+  "version": "1.0.13",
   "description": "Npx demo.",
   "main": "index.js",
   "scripts": {
